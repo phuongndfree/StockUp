@@ -1,0 +1,11 @@
+C:\Users\DELL Latitude\source\repos\StockUp2\StockUp2\bin\Debug\StockUp2.exe.config
+C:\Users\DELL Latitude\source\repos\StockUp2\StockUp2\bin\Debug\StockUp2.exe
+C:\Users\DELL Latitude\source\repos\StockUp2\StockUp2\bin\Debug\StockUp2.pdb
+C:\Users\DELL Latitude\source\repos\StockUp2\StockUp2\obj\Debug\StockUp2.csprojAssemblyReference.cache
+C:\Users\DELL Latitude\source\repos\StockUp2\StockUp2\obj\Debug\StockUp2.Login.resources
+C:\Users\DELL Latitude\source\repos\StockUp2\StockUp2\obj\Debug\StockUp2.Properties.Resources.resources
+C:\Users\DELL Latitude\source\repos\StockUp2\StockUp2\obj\Debug\StockUp2.csproj.GenerateResource.cache
+C:\Users\DELL Latitude\source\repos\StockUp2\StockUp2\obj\Debug\StockUp2.csproj.CoreCompileInputs.cache
+C:\Users\DELL Latitude\source\repos\StockUp2\StockUp2\obj\Debug\StockUp2.exe
+C:\Users\DELL Latitude\source\repos\StockUp2\StockUp2\obj\Debug\StockUp2.pdb
+C:\Users\DELL Latitude\source\repos\StockUp2\StockUp2\obj\Debug\StockUp2.Predict.resources
